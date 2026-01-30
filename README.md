@@ -18,6 +18,3 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 |:---:|:---|:---:|:---:|:---|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0001-Two-Sum/) | Arrays & Hashing |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0217-Contains-Duplicate/) | Arrays & Hashing |
-## 🛠️ Resources
-- [NeetCode.io](https://neetcode.io/)
-- [C++ Reference](https://en.cppreference.com/)
