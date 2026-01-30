@@ -1,7 +1,7 @@
 # NeetCode-150
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-2%2F150-green.svg)
+![Progress](https://img.shields.io/badge/Progress-3%2F150-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 > **Documenting my journey through the NeetCode 150 challenge.**
@@ -18,3 +18,4 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 |:---:|:---|:---:|:---:|:---|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0001-Two-Sum/) | Arrays & Hashing |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0217-Contains-Duplicate/) | Arrays & Hashing |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0242-Valid-Anagram/) | Arrays & Hashing |
