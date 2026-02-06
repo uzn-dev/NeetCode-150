@@ -21,5 +21,5 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0001-Two-Sum/) | Arrays & Hashing |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0049-Group-Anagrams/) | Arrays & Hashing |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0347-Top-K-Frequent-Elements/) | Arrays & Hashing |
-| 0271 | [Encode and Decode Strings](https://www.lintcode.com/problem/659/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0271-Encode-and-Decode-Strings/) | Arrays & Hashing |
+| 0271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0271-Encode-and-Decode-Strings/) | Arrays & Hashing |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0238-Product-of-Array-Except-Self/) | Arrays & Hashing |
