@@ -1,7 +1,7 @@
 # 49. Group Anagrams
 
 - **難度**: Medium
-- **主題**: Arrays & Hashing, String
+- **主題**: Array, Hash Table, String, Sorting
 - **連結**: [LeetCode Link](https://leetcode.com/problems/group-anagrams/)
 
 ## 💡 解題思路

@@ -1,7 +1,7 @@
 # 347. Top K Frequent Elements
 
 - **難度**: Medium
-- **主題**: Arrays & Hashing, Bucket Sort
+- **主題**: Array, Hash Table, Sorting, Bucket Sort, Quickselect, Counting
 - **連結**: [LeetCode Link](https://leetcode.com/problems/top-k-frequent-elements/)
 
 ## 💡 解題邏輯

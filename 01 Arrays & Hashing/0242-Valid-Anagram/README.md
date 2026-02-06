@@ -1,7 +1,7 @@
 # 242. Valid Anagram
 
 - **難度**: Easy
-- **主題**: String, Hash Table
+- **主題**: String, Hash Table, Sorting
 - **連結**: [LeetCode Link](https://leetcode.com/problems/valid-anagram/)
 
 ## 💡 解題思路

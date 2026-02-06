@@ -1,7 +1,7 @@
 # 217. Contains Duplicate
 
 - **難度**: Easy
-- **主題**: Array, Hash Table
+- **主題**: Array, Hash Table, Sorting
 - **連結**: [LeetCode Link](https://leetcode.com/problems/contains-duplicate/)
 
 ## 💡 解題思路

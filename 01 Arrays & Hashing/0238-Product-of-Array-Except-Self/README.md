@@ -1,7 +1,7 @@
 # 238. Product of Array Except Self
 
 - **難度**: Medium
-- **主題**: Arrays & Hashing, Prefix/Suffix Product
+- **主題**: Arrays, Prefix Sum
 - **連結**: [LeetCode Link](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## 💡 解題邏輯
