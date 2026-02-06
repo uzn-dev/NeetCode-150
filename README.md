@@ -1,7 +1,7 @@
 # NeetCode-150
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-7%2F150-green.svg)
+![Progress](https://img.shields.io/badge/Progress-8%2F150-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 > **Documenting my journey through the NeetCode 150 challenge.**
@@ -23,3 +23,4 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0347-Top-K-Frequent-Elements/) | Arrays & Hashing |
 | 0271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0271-Encode-and-Decode-Strings/) | Arrays & Hashing |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0238-Product-of-Array-Except-Self/) | Arrays & Hashing |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0036-Valid-Sudoku/) | Arrays & Hashing |
