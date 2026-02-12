@@ -1,24 +1,22 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
+    vector<int> twoSum(vector<int>& numbers, int target) {
         int L = 0;
-        int R = s.size() - 1;
+        int R = numbers.size()-1;
 
         while(L < R){
-            while(L < R && !isalnum(s[L])){
+            int sum = numbers[L] + numbers[R];
+            
+            if (sum < target){
                 ++L;
-                continue;
             }
-            while(L < R && !isalnum(s[R])){
+            else if(sum > target){
                 --R;
-                continue;
             }
-
-            if(tolower(s[L]) != tolower(s[R])) return false;
-
-            ++L;
-            --R;
+            else{
+                return {L+1, R+1};
+            }
         }
-        return true;
+        return {};
     }
 };
