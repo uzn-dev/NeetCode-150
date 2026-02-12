@@ -25,3 +25,4 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0238-Product-of-Array-Except-Self/) | Arrays & Hashing |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0036-Valid-Sudoku/) | Arrays & Hashing |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0128-Longest-Consecutive-Sequence/) | Arrays & Hashing |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C++](./02%20Two%20Pointers/0125-Valid-Palindrome/) | Two Pointers |
