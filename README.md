@@ -31,4 +31,4 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | # | Problem | Difficulty | Solution |
 |:---:|:---|:---:|:---:|
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C++](./02%20Two%20Pointers/0125-Valid-Palindrome/) |
-| 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0167-Two-Sum-II/) |
+| 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0167-Two-Sum-II/) |
