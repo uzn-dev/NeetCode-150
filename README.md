@@ -15,8 +15,8 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 ## 📊 Progress Board
 
 ### 01 Arrays & Hashing (9/9) - ✅ Completed
-| # | Problem | Difficulty | Solution | Pattern |
-|:---:|:---|:---:|:---:|:---|
+| # | Problem | Difficulty | Solution |
+|:---:|:---|:---:|:---:|
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0217-Contains-Duplicate/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0242-Valid-Anagram/) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [C++](./01%20Arrays%20&%20Hashing/0001-Two-Sum/) |
@@ -28,7 +28,7 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0128-Longest-Consecutive-Sequence/) |
 
 ### 02 Two Pointers
-| # | Problem | Difficulty | Solution | Pattern |
-|:---:|:---|:---:|:---:|:---|
+| # | Problem | Difficulty | Solution |
+|:---:|:---|:---:|:---:|
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C++](./02%20Two%20Pointers/0125-Valid-Palindrome/) |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0167-Two-Sum-II/) |
