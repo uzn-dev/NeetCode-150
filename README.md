@@ -1,7 +1,7 @@
 # NeetCode-150
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-9%2F150-green.svg)
+![Progress](https://img.shields.io/badge/Progress-10%2F150-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 > **Documenting my journey through the NeetCode 150 challenge.**
