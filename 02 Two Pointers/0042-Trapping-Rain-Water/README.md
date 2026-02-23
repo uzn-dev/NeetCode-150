@@ -2,7 +2,7 @@
 
 - **難度**: Hard
 - **主題**: Array, Two Pointers
-- **連結**: [LeetCode 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- **連結**: [LeetCode Link](https://leetcode.com/problems/trapping-rain-water/)
 
 ## 💡 解題邏輯
 這題的核心是看**每一格（單格）能積多少水**。

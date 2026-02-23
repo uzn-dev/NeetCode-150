@@ -2,7 +2,7 @@
 
 - **難度**: Easy
 - **主題**: Two Pointers, String
-- **連結**: [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- **連結**: [LeetCode Link](https://leetcode.com/problems/valid-palindrome/)
 
 ## 💡 解題邏輯
 這題的核心是判斷字串是否為「迴文」(Palindrome)，即正讀和反讀都一樣。

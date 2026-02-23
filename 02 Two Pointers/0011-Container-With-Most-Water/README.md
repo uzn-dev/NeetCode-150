@@ -2,7 +2,7 @@
 
 - **難度**: Medium
 - **主題**: Array, Two Pointers, Greedy
-- **連結**: [LeetCode 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- **連結**: [LeetCode Link](https://leetcode.com/problems/container-with-most-water/)
 
 ## 💡 解題邏輯
 這題的核心就是物理學的 **「木桶效應」** 加上演算法的 **「貪心策略 (Greedy)」**。

@@ -2,7 +2,7 @@
 
 - **難度**: Medium
 - **主題**: Two Pointers, Array
-- **連結**: [LeetCode 167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- **連結**: [LeetCode Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ## 💡 解題邏輯
 這題與標準 Two Sum 最大的不同在於 **Input Array 已經排序 (Sorted)**。
