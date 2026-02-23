@@ -1,7 +1,7 @@
 # NeetCode-150
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-12%2F150-green.svg)
+![Progress](https://img.shields.io/badge/Progress-13%2F150-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 > **Documenting my journey through the NeetCode 150 challenge.**
@@ -27,9 +27,10 @@ This repository is organized by NeetCode patterns. Each problem folder contains:
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0036-Valid-Sudoku/) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [C++](./01%20Arrays%20&%20Hashing/0128-Longest-Consecutive-Sequence/) |
 
-### 02 Two Pointers
+### 02 Two Pointers (4/5)
 | # | Problem | Difficulty | Solution |
 |:---:|:---|:---:|:---:|
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [C++](./02%20Two%20Pointers/0125-Valid-Palindrome/) |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0167-Two-Sum-II/) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0015-3Sum/) |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [C++](./02%20Two%20Pointers/0011-Container-With-Most-Water/) |
